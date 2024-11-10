@@ -421,6 +421,7 @@ export default function Home() {
                     setShowCart(false)
                     setShowCheckout(true)
                 }}
+
             />
 
             {/* Checkout Popup */}
