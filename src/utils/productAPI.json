@@ -1,0 +1,70 @@
+[
+    {
+        "category": "REINSTATE ACCOUNTS (ARI-2LINE)",
+        "items": [
+            {
+                "id": 1,
+                "name": "Advertising Access Reinstated Profile (ARI) + ID Card - Farmed Account With Friends (USA)",
+                "inStock": 10,
+                "price": 35.00
+            },
+            {
+                "id": 2,
+                "name": "Advertising Access Reinstated Account (ARI) + ID Card - Farmed Account With Friends (European)",
+                "inStock": 3,
+                "price": 35.00
+            }
+        ]
+    },
+    {
+        "category": "DOUBLE REINSTATED ACCOUNTS (SARI-3LINE)",
+        "items": [
+            {
+                "id": 3,
+                "name": "USA Advertising Access Double Reinstated Account (SARI) + ID Card - Farmed Account With Posts",
+                "inStock": 10,
+                "price": 40.00
+            },
+            {
+                "id": 4,
+                "name": "Europe Advertising Access Double Reinstated Account (SARI) + ID Card - Farmed Account With Posts",
+                "inStock": 2,
+                "price": 40.00
+            }
+        ]
+    },
+    {
+        "category": "FACEBOOK FANPAGES",
+        "items": [
+            {
+                "id": 5,
+                "name": "Facebook Advertising Access Reinstated Fan Pages (ARI) - Name Is Changeable",
+                "inStock": 7,
+                "price": 40.00
+            },
+            {
+                "id": 6,
+                "name": "Facebook Aged Fan Pages (Created 2010-2022) - Name Is Changeable",
+                "inStock": 3,
+                "price": 40.00
+            },
+            {
+                "id": 7,
+                "name": "Facebook Blue Tick Fan Page (Verified With Blue Badge) - One Of The Best Page for Advertising",
+                "inStock": 9,
+                "price": 1500.00
+            }
+        ]
+    },
+    {
+        "category": "VERIFIED BUSINESS MANAGERS",
+        "items": [
+            {
+                "id": 8,
+                "name": "Business Manager (Verified With ID Card) - [Country : USA]",
+                "inStock": 9,
+                "price": 70.00
+            }
+        ]
+    }
+]
